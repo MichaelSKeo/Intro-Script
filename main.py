@@ -1,9 +1,11 @@
 import pandas
 import calculate
-import data
 
 print('hello')
 print(calculate.x)
 print(calculate.y)
 
 print('Hi Again')
+
+def foo(x):
+  return x
